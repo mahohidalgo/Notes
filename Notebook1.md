@@ -1,9 +1,9 @@
-## Idioms
+# Idioms
 
 _He was born with a silver spoon in his mouth_
 
 
-# Crime
+## Crime
 
 | Crime | Person who commits | What is?
 |:---------------------:|:-------------:|
@@ -30,23 +30,23 @@ _He was born with a silver spoon in his mouth_
 | Pickpockting | Pickpocketer | |
 | Bag snatching | Bag snatcher | |
 
-Charged of 'crime'
-Attemted murder
-Manslaughter
-Death penalty
-Capital punishment
-Convicted of 
-Acquit 
-White collar crime for example Taxes evasion
-Restraining order
-Forced resignation
-Libel (Defamation on words or images)
-Slander (Spoken defamation)
-Perjury ( False testimony)
-Verdict
-Trial
-Jury
-Defence
-Prosecution
+- Charged of 'crime'
+- Attempted murder
+- Manslaughter
+- Death penalty
+- Capital punishment
+- Convicted of 
+- Acquit 
+- White collar crime for example Taxes evasion
+- Restraining order
+- Forced resignation
+- Libel (Defamation on words or images)
+- Slander (Spoken defamation)
+- Perjury ( False testimony)
+- Verdict
+- Trial
+- Jury
+- Defence
+- Prosecution
 
 
