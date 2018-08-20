@@ -6,7 +6,7 @@ _He was born with a silver spoon in his mouth_
 ## Crime
 
 | Crime | Person who commits | What is?
-|:---------------------:|:-------------:|
+|:---------------------:|:-------------:|-----:|
 |    Arson      |      Arsonist      | Someone who destroys property setting fire on it |
 |      Drug dealing       |      Drug dealer    |
 |       Vandalism       |      Vandal   |
