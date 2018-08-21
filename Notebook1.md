@@ -1,4 +1,32 @@
 # Idioms
+_Stop sniggering_
+_No big deal_
+_to watch out for something_
+_Keep an eye out for something_
+_Bees Knees_ (Cool)
+
+_An uphill battle_
+_Thorn in my backside_
+
+_Jump in at the deep end_
+_Test the water_
+_Run with it_
+_Tackle_
+_Got off to flying start_
+_Jumped the gun_
+_Pass the baton_
+_In the homestretch_
+_Sets the pace_
+_A Ballpark figure_
+_The slam dunk_
+_Moving the goal post_
+_Went to bat for_
+_Had two strikes against me_
+_In full swing_
+_Right off the bat_
+_Play hardball_
+
+
 
 _He was born with a silver spoon in his mouth_
 
@@ -50,3 +78,47 @@ _He was born with a silver spoon in his mouth_
 - Prosecution
 
 
+## Health
+- Knuckles
+- Bandage
+- Chin
+- Throw up (Vomit)
+- Attention span (the length of time for which a person is able to concentrate on a particular activity or subject)
+
+## Ways of look
+- Look at
+- See at
+- Stare at 
+- Glance at
+
+## Adjectives
+Garish: bright and showy
+Joyous: Full of happiness
+Corny: Something banal or obvious
+Lascivious: Sexual content
+Flawless: Perfect
+Hearty
+
+
+## Nouns
+Gravitas: Something serious and dignity
+Gimmicks: a trick intented to attract attention
+Resemblance: Physical likeness
+Drawback: Negative reason
+
+## Verbs
+to fetch: go for something and come back
+to cram: fill something
+to astonish: amaze
+to loathe: to hate strongly
+
+
+
+
+
+## Sports
+
+- Walk along
+- Jumps across
+- Climb out of the water
+- Stand on a rock
