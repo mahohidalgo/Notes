@@ -1,34 +1,34 @@
 # Idioms
-_Stop sniggering_
-_No big deal_
-_to watch out for something_
-_Keep an eye out for something_
-_Bees Knees_ (Cool)
+* _Stop sniggering_
+* _No big deal_
+* _to watch out for something_
+* _Keep an eye out for something_
+* _Bees Knees_ (Cool)
 
-_An uphill battle_
-_Thorn in my backside_
+* _An uphill battle_
+* _Thorn in my backside_
 
-_Jump in at the deep end_
-_Test the water_
-_Run with it_
-_Tackle_
-_Got off to flying start_
-_Jumped the gun_
-_Pass the baton_
-_In the homestretch_
-_Sets the pace_
-_A Ballpark figure_
-_The slam dunk_
-_Moving the goal post_
-_Went to bat for_
-_Had two strikes against me_
-_In full swing_
-_Right off the bat_
-_Play hardball_
+* _Jump in at the deep end_
+* _Test the water_
+* _Run with it_
+* _Tackle_
+* _Got off to flying start_
+* _Jumped the gun_
+* _Pass the baton_
+* _In the homestretch_
+* _Sets the pace_
+* _A Ballpark figure_
+* _The slam dunk_
+* _Moving the goal post_
+* _Went to bat for_
+* _Had two strikes against me_
+* _In full swing_
+* _Right off the bat_
+* _Play hardball_
 
 
 
-_He was born with a silver spoon in his mouth_
+* _He was born with a silver spoon in his mouth_
 
 
 ## Crime
