@@ -25,7 +25,8 @@
 * _In full swing_
 * _Right off the bat_
 * _Play hardball_
-
+* _tread on my toes_ (No pisarse las mangueras)
+*_we can call it quits_ = settle up with (no necessary to pay what you owe)
 
 
 * _He was born with a silver spoon in his mouth_
@@ -98,13 +99,14 @@ Corny: Something banal or obvious
 Lascivious: Sexual content
 Flawless: Perfect
 Hearty
+Tormented: filled with emotional pain
 
 
 ## Nouns
-Gravitas: Something serious and dignity
-Gimmicks: a trick intented to attract attention
-Resemblance: Physical likeness
-Drawback: Negative reason
+- Gravitas: Something serious and dignity
+- Gimmicks: a trick intented to attract attention
+- Resemblance: Physical likeness
+- Drawback: Negative reason
 
 ## Verbs
 to fetch: go for something and come back
@@ -112,10 +114,30 @@ to cram: fill something
 to astonish: amaze
 to loathe: to hate strongly
 
+## In the working environment
+- to get on with = Proceed
+- to get by = manage financially 
+- waxed and waned = Increased and decreased
+- Did you **get up** something interesting?
+- to catch up with news or catch up on episodes
+- go ahead with = Have I got the green light?
+- to go on with = continue
+- to run out of (pacience, milk)
+- to go through with = complete, execute, carry out
+- to **get round to** = have time/opportunity of doing something 
+- to keep up with 
+- well- handled
+- draw a parallel
+- to take part in = participate
+- to take place = happen (location)
+- low tornout = low attendance
+- to keep to = to stick to a plan 
+- 
 
+## Irish
 
-
-
+- A learned chap = well educated
+- Someone who is not _the full shilling_ = Crazy person, mental illness
 ## Sports
 
 - Walk along
